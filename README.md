@@ -33,6 +33,6 @@ Es un proyecto con fines **educativos**.
 ---
 ##👩‍💻 Autor
 
--María Marina Vázquez Hernández
--Estudiante de Ingeniería en Sistemas Computacionales
--Aprendiendo C# y desarrollo de aplicaciones de escritorio
+-Marina Vázquez Hernández.
+-Estudiante de Ingeniería.
+-Aprendiendo C# y desarrollo de aplicaciones de escritorio.
